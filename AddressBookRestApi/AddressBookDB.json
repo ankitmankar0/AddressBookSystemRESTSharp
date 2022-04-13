@@ -1,0 +1,26 @@
+{
+  "Contacts": [
+    {
+      "id": 1,
+      "firstname": "Ankit",
+      "lastname": "Mankar",
+      "PhoneNumber": "9175739197",
+      "address": "Wadi",
+      "city": "Nagpur",
+      "state": "MH",
+      "zip": "440023",
+      "email": "ankit@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "Sumit",
+      "lastname": "Rawat",
+      "PhoneNumber": "9878616248",
+      "address": "Basti",
+      "city": "Gorakhpur",
+      "state": "UP",
+      "zip": "412105",
+      "email": "sumit@gmail.com"
+    }
+  ]
+}
