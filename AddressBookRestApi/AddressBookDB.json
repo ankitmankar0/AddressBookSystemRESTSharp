@@ -43,17 +43,6 @@
       "state": "MP",
       "zip": "222205",
       "email": "Eren@gmail.com"
-    },
-    {
-      "id": 5,
-      "firstName": "Ekta",
-      "lastName": "Kumbhare",
-      "phoneNumber": "7856239865",
-      "address": "Bajaj Nagar",
-      "city": "Pune",
-      "state": "Maharashtra",
-      "zip": "442203",
-      "email": "ek@gmail.com"
     }
   ]
 }
