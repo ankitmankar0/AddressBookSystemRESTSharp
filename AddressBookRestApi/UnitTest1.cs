@@ -32,7 +32,6 @@ namespace AddressBookRestApi
 
         /* UC22:- Ability to Read Entries of Address Book from JSONServer.
                   - Use RESTSharp for REST Api Calls from MSTest Test Code.
-                  - Update Address Book Memory of the Data retrieved from JSON Server.
         */
         [TestMethod]
         public void ReadEntriesFromJsonServer()
